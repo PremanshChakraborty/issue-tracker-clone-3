@@ -87,7 +87,9 @@
       "priority": "critical",
       "inactivity_threshold_days": 3,
       "stale_re_alert_days": 2,
-      "watch_users": [],
+      "watch_users": [
+        "ALL"
+      ],
       "ignore_users": [],
       "notify_on": [
         "comments",
