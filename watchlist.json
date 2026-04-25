@@ -77,6 +77,40 @@
       "snooze_until": null,
       "notes": "",
       "auto_remove_on_close": true
+    },
+    "ohcnetwork/care_fe#16263": {
+      "repo": "ohcnetwork/care_fe",
+      "issue_number": 16263,
+      "title": "Invoice Sheet: Alignment issue on textarea expansion",
+      "added_at": "2026-04-25T19:12:00.897Z",
+      "mode": "awaiting_reply",
+      "priority": "critical",
+      "inactivity_threshold_days": 3,
+      "stale_re_alert_days": 2,
+      "watch_users": [],
+      "ignore_users": [],
+      "notify_on": [
+        "comments",
+        "assigned",
+        "unassigned",
+        "labeled",
+        "unlabeled",
+        "closed",
+        "reopened",
+        "renamed",
+        "cross-referenced",
+        "connected",
+        "merged",
+        "milestoned",
+        "demilestoned",
+        "review_requested",
+        "mentioned"
+      ],
+      "priority_bypass_quiet_hours": true,
+      "snooze_until": null,
+      "notes": "",
+      "auto_remove_on_close": true,
+      "show_bot_comments": true
     }
   }
 }
