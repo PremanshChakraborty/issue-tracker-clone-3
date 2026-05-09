@@ -475,5 +475,19 @@
       "detail": ""
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "5b547bb3-2727-497f-96be-12e2e41760d4",
+    "timestamp": "2026-05-09T07:49:09.523Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Adilrasheed1",
+      "summary": "@Adilrasheed1 commented",
+      "detail": "Hi, I would like to work on this issue.\n\nMy approach:\n- Investigate layout structure of the invoice form\n- Fix alignment when textarea expands using proper flex/grid handling\n\nEstimated time: 1–2 days"
+    },
+    "delivered_to": "telegram"
   }
 ]
