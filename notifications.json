@@ -489,5 +489,19 @@
       "detail": "Hi, I would like to work on this issue.\n\nMy approach:\n- Investigate layout structure of the invoice form\n- Fix alignment when textarea expands using proper flex/grid handling\n\nEstimated time: 1–2 days"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "aea957bf-3249-42a6-9600-4706ddf8a59e",
+    "timestamp": "2026-05-26T08:28:47.126Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "github-actions[bot]",
+      "summary": "@github-actions[bot] added label \"stale\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
   }
 ]
