@@ -503,5 +503,47 @@
       "detail": ""
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "3fed9811-2a77-4327-93f8-73796ac58f57",
+    "timestamp": "2026-06-12T14:07:06.073Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "9cb52ff6-e777-4f01-ab87-3607d4bb17dd",
+    "timestamp": "2026-06-12T14:07:06.073Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "f88b9362-d664-4663-8bb7-87f19b46a2c2",
+    "timestamp": "2026-06-12T14:07:06.073Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Janetmaria",
+      "summary": "@Janetmaria commented",
+      "detail": "@Jacobjeevan  I would like to request assignment for this issue; I will fix the form alignment by replacing the problematic margin classes on the expanded textareas with proper padding or layout flex/"
+    },
+    "delivered_to": "telegram"
   }
 ]
