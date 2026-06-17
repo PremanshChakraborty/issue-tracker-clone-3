@@ -545,5 +545,47 @@
       "detail": "@Jacobjeevan  I would like to request assignment for this issue; I will fix the form alignment by replacing the problematic margin classes on the expanded textareas with proper padding or layout flex/"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "3d2921e1-bdf1-4229-bbaf-215bcc0ec150",
+    "timestamp": "2026-06-17T08:56:15.418Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "c62b2dc2-4754-4507-9af4-8caa319f229f",
+    "timestamp": "2026-06-17T08:56:15.418Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "8af059e5-f32c-4ea3-9e2b-9f7b7b09c2b3",
+    "timestamp": "2026-06-17T08:56:15.418Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "ayush-343",
+      "summary": "@ayush-343 commented",
+      "detail": "Hi @Jacobjeevan  can I take over from where the author left off?\n\nEstimated time: 1 day"
+    },
+    "delivered_to": "telegram"
   }
 ]
