@@ -587,5 +587,19 @@
       "detail": "Hi @Jacobjeevan  can I take over from where the author left off?\n\nEstimated time: 1 day"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "4708411c-9220-4215-9146-73ba2695b845",
+    "timestamp": "2026-06-21T08:24:24.327Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "github-actions[bot]",
+      "summary": "@github-actions[bot] removed label \"stale\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
   }
 ]
