@@ -601,5 +601,19 @@
       "detail": ""
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "0bfbe9d7-384b-4b71-a5ab-5d1d335040fe",
+    "timestamp": "2026-07-11T05:24:57.904Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "github-actions[bot]",
+      "summary": "@github-actions[bot] added label \"stale\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
   }
 ]
