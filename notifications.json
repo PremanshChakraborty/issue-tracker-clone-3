@@ -615,5 +615,19 @@
       "detail": ""
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "dff52aeb-e1a3-463b-887c-3547db4a474a",
+    "timestamp": "2026-08-17T18:29:50.204Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "ShoneShaji",
+      "summary": "@ShoneShaji commented",
+      "detail": "Hi, I am a new contributor and would like to work on this issue. Could you please assign it to me?\n"
+    },
+    "delivered_to": "telegram"
   }
 ]
