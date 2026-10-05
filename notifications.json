@@ -629,5 +629,187 @@
       "detail": "Hi, I am a new contributor and would like to work on this issue. Could you please assign it to me?\n"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "8ee74035-df6c-44cf-8c63-4fec533d5c96",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "pranavrutagi-egov",
+      "summary": "@pranavrutagi-egov triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "05c1eaf8-bc48-469e-b544-9433db56b6ce",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "pranavrutagi-egov",
+      "summary": "@pranavrutagi-egov was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "e3b47b4e-6169-4da0-8394-d9add63b11d2",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "8sami",
+      "summary": "@8sami triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "adc0801d-6b31-4fed-be7b-21af33979f33",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "8sami",
+      "summary": "@8sami was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "53c1ccbd-21f0-4c38-b3af-e649dd741b17",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Master-112005",
+      "summary": "@Master-112005 triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "ace4781f-23bc-4570-b76c-52e62286787d",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Master-112005",
+      "summary": "@Master-112005 was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "3518ffb2-3ccf-4931-80ee-acc73d0066c0",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "nihal467",
+      "summary": "@nihal467 triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "e7c1ba1c-5802-4cc0-8987-570f31f077b0",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "nihal467",
+      "summary": "@nihal467 was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "a0bf19e9-b54b-4ec3-8178-3bf5d5001254",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "865aba4e-322a-4c06-945c-2fb223faa5d8",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "878a9a5e-0d4b-435d-bede-3b6061735989",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "bodhish",
+      "summary": "@bodhish triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "a78b6497-71c2-4323-a0b1-fbc956296e15",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "bodhish",
+      "summary": "@bodhish was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "3b6f2343-c60e-466c-b118-965e51d4ed74",
+    "timestamp": "2026-10-05T09:22:43.255Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "rahulmj2004",
+      "summary": "@rahulmj2004 commented",
+      "detail": "@bodhish @Jacobjeevan @nihal467 I’d like to work on this issue. Could you please assign it to me? I’ll wait for assignment before opening a PR.\n\n**Proposed solution:**\n\nI reviewed the current `develop"
+    },
+    "delivered_to": "telegram"
   }
 ]
