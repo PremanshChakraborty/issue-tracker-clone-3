@@ -811,5 +811,47 @@
       "detail": "@bodhish @Jacobjeevan @nihal467 I’d like to work on this issue. Could you please assign it to me? I’ll wait for assignment before opening a PR.\n\n**Proposed solution:**\n\nI reviewed the current `develop"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "24051abf-1ad4-4365-b6fb-c31ca30e453f",
+    "timestamp": "2026-10-06T19:38:28.426Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan triggered \"subscribed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "898535ab-4ab0-4243-8393-d4ad89fbb677",
+    "timestamp": "2026-10-06T19:38:28.426Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "Jacobjeevan",
+      "summary": "@Jacobjeevan was mentioned",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "9b2a5d7d-1e2b-483d-8684-2f7e9926598c",
+    "timestamp": "2026-10-06T19:38:28.426Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "adityamukesh",
+      "summary": "@adityamukesh commented",
+      "detail": "Hi @Jacobjeevan, I would like to work on this issue.\n\n### Proposed Solution:\nI will resolve the layout alignment issue in the invoice sheet by updating the container flex/grid constraints on the texta"
+    },
+    "delivered_to": "telegram"
   }
 ]
