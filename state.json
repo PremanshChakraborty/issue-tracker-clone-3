@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-11T13:13:14.519Z",
+  "last_run": "2026-10-11T18:14:19.371Z",
   "last_digest_sent_at": "2026-10-11T00:17:30.580Z",
   "issues": {
     "PremanshChakraborty/issue_tracker_playground#1": {
@@ -43,13 +43,13 @@
     "ohcnetwork/care_fe#16263": {
       "issue_author": "pranavrutagi-egov",
       "assignees": [],
-      "last_comment_id": 6022595889,
+      "last_comment_id": 6109590300,
       "last_event_id": 32625872625,
-      "last_activity_at": "2026-10-06T18:15:35.000Z",
+      "last_activity_at": "2026-10-11T13:35:48.000Z",
       "inactivity_alerted": false,
       "inactivity_last_alerted_at": null,
-      "last_telegram_message_id": 324,
-      "window_comment_count": 0,
+      "last_telegram_message_id": 335,
+      "window_comment_count": 1,
       "window_event_count": 0
     }
   }

@@ -853,5 +853,19 @@
       "detail": "Hi @Jacobjeevan, I would like to work on this issue.\n\n### Proposed Solution:\nI will resolve the layout alignment issue in the invoice sheet by updating the container flex/grid constraints on the texta"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "55c40d60-97f1-4280-a507-bc4ed6063ba0",
+    "timestamp": "2026-10-11T18:14:20.365Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "MadhavaGuganeshwar1516",
+      "summary": "@MadhavaGuganeshwar1516 commented",
+      "detail": "Hi, I would like to work on this issue. I understand that the problem is with the invoice form alignment when the Payment Terms or Note text areas expand. I plan to investigate the layout and make a f"
+    },
+    "delivered_to": "telegram"
   }
 ]
