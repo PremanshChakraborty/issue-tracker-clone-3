@@ -867,5 +867,19 @@
       "detail": "Hi, I would like to work on this issue. I understand that the problem is with the invoice form alignment when the Payment Terms or Note text areas expand. I plan to investigate the layout and make a f"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "8340e0c1-a165-4635-b4b9-fab573c8d742",
+    "timestamp": "2026-11-21T16:52:52.118Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "anuragdas2001",
+      "summary": "@anuragdas2001 triggered \"referenced\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
   }
 ]
