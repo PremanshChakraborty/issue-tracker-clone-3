@@ -881,5 +881,47 @@
       "detail": ""
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "684561b4-a240-4d0c-bdd2-f38db7c0a2b7",
+    "timestamp": "2026-11-22T22:39:19.312Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "ohc-project-manager[bot]",
+      "summary": "@ohc-project-manager[bot] triggered \"project_v2_item_status_changed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "53814a50-f7e2-45ca-912a-3e4c1652958a",
+    "timestamp": "2026-11-22T22:39:19.312Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "bodhish",
+      "summary": "@bodhish closed the issue",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "7dd6e71e-e924-4d68-a280-f2a9b5be6926",
+    "timestamp": "2026-11-22T22:39:19.312Z",
+    "issue_ref": "ohcnetwork/care_fe#16263",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "bodhish",
+      "summary": "@bodhish triggered \"referenced\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
   }
 ]
